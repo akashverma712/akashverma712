@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZvN3lrbzZ6a2E2ZDF2cXRhMHkxOXZvb2Q3cGU4dTFvaGd3MHh4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IeRdg7U3Ghm4nLMP9E/giphy.gif" width="300"/><br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlvcW1obnFieThsZzF1enNrb240OWRpaXNnbmlkcGFyaWgzd2t0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/><br>
 
 👯 I’m looking to collaborate on Open Source Projects.<br>
 🌱 Currently Exploring the domains of Full Stack Development, DevOps,<br>
